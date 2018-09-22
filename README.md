@@ -1,2 +1,2 @@
-# cd-alpine
-Alpine image with SSH for Continuous Deployment
+# Alpine Image for CD
+Alpine docker image with SSH for Continuous Deployment
